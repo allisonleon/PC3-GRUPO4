@@ -1,0 +1,26 @@
+Nombre,Apellido,Posicion,ID_Equipo,Abreviatura,Ciudad,Asociacion,Division,Nombre_Oficial_Equipo,Nombre_Equipo
+Ike,Anigbogu,C,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+Ron,Baker,G,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+Jabari,Bird,G,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+MarShon,Brooks,G,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+Lorenzo,Brown,G,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+Omri,Casspi,F,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+Alex,Abrines,G,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+Tyler,Davis,C,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+Keenan,Evans,G,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+Marcin,Gortat,C,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+Andrew,Bogut,F,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+Amir,Johnson,C-F,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+Malachi,Richardson,G,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+Zach,Lofton,G,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+Kosta,Koufos,C,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+Billy,Preston,F,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+Zhou,Qi,F-C,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+Zach,Randolph,F,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+DJ,Stephens,G-F,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+Milos,Teodosic,G,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+Gary,Trent Jr.,G,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+Michael,Smith,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+John,Morton,,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+Howard,Wright,,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+Michael,Ansley,,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
